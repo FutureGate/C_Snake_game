@@ -7,4 +7,5 @@ Snake Game Written By C
 
 
 > Press W, A, S, D to Move
+
 > Used Linked List for structure of the snake.
